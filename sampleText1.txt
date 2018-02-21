@@ -1,0 +1,6 @@
+This is a test text file.
+
+I will have committed it to my GitHub account hopefully.
+
+Thanks.
+
